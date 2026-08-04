@@ -1,0 +1,22 @@
+# Chiavi API
+.env
+
+# Ambiente virtuale
+venv/
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Database locale
+data/*.db
+data/*.db-shm
+data/*.db-wal
+
+# macOS
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
